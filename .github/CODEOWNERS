@@ -1,0 +1,7 @@
+# Acme Payments — demo ownership for Sentinel.
+# These users are illustrative for the live demo; GitHub will
+# resolve @wakejalker1 and ignore unknown team slugs.
+*                    @wakejalker1
+/index.php           @wakejalker1
+/func.php            @wakejalker1
+/db.php              @wakejalker1
